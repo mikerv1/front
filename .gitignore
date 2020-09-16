@@ -1,0 +1,14 @@
+# npm modules
+node_modules/
+
+# Other directories & files
+
+AlterCode/
+
+archives/
+
+public/
+
+docker/
+
+note
